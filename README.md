@@ -82,16 +82,8 @@ This project is designed to:
 
 ## 🔄 Project Workflow
 
-Raw Data
-   ↓
-Python
-(Data Cleaning & Preparation)
-   ↓
-Python
-(Exploratory Data Analysis)
-   ↓
-Power BI
-(Dashboard & Visualization)
+<img width="159" height="157" alt="image" src="https://github.com/user-attachments/assets/bacaf265-b987-4a10-9df1-6ed3939291fe" />
+
 
 ---
 
